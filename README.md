@@ -52,21 +52,21 @@ We verify the imputation by predicting the **severity** with **filled** training
 
 **t-SNE**
 
-![feature_filled_knn_3](/E:/FDU/ISTBI/covid-data-challenge/fig/feature_filled_knn_3.png)
+![feature_filled_knn_3](fig/feature_filled_knn_3.png)
 
 **ROC curve**
 
-![filled_knn_3](/E:/FDU/ISTBI/covid-data-challenge/fig/filled_knn_3.png)
+![filled_knn_3](fig/filled_knn_3.png)
 
 ROC AUC score of voting methods: **0.8178458232608112**
 
 **Accuracy@0.5**
 
-![acc_filled_knn_3](/E:/FDU/ISTBI/covid-data-challenge/fig/acc_filled_knn_3.png)
+![acc_filled_knn_3](fig/acc_filled_knn_3.png)
 
 **Confusion matrix@0.5**
 
-![cm_filled_knn_3](/E:/FDU/ISTBI/covid-data-challenge/fig/cm_filled_knn_3.png)
+![cm_filled_knn_3](fig/cm_filled_knn_3.png)
 
 
 #### KNN-6 imputation
@@ -88,21 +88,21 @@ ROC AUC score of voting methods: **0.8178458232608112**
 
 **t-SNE**
 
-![feature_filled_knn_6](/E:/FDU/ISTBI/covid-data-challenge/fig/feature_filled_knn_6.png)
+![feature_filled_knn_6](fig/feature_filled_knn_6.png)
 
 **ROC curve**
 
-![filled_knn_6](/E:/FDU/ISTBI/covid-data-challenge/fig/filled_knn_6.png)
+![filled_knn_6](fig/filled_knn_6.png)
 
 ROC AUC score of voting methods: **0.8227558420628526**
 
 **Accuracy@0.5**
 
-![acc_filled_knn_6](/E:/FDU/ISTBI/covid-data-challenge/fig/acc_filled_knn_6.png)
+![acc_filled_knn_6](fig/acc_filled_knn_6.png)
 
 **Confusion matrix@0.5**
 
-![cm_filled_knn_6](/E:/FDU/ISTBI/covid-data-challenge/fig/cm_filled_knn_6.png)
+![cm_filled_knn_6](fig/cm_filled_knn_6.png)
 
 
 #### KNN-9 imputation
@@ -124,21 +124,21 @@ ROC AUC score of voting methods: **0.8227558420628526**
 
 **t-SNE**
 
-![feature_filled_knn_9](/E:/FDU/ISTBI/covid-data-challenge/fig/feature_filled_knn_9.png)
+![feature_filled_knn_9](fig/feature_filled_knn_9.png)
 
 **ROC curve**
 
-![filled_knn_9](/E:/FDU/ISTBI/covid-data-challenge/fig/filled_knn_9.png)
+![filled_knn_9](fig/filled_knn_9.png)
 
 ROC AUC score of voting methods: **0.824071989583669**
 
 **Accuracy@0.5**
 
-![acc_filled_knn_9](/E:/FDU/ISTBI/covid-data-challenge/fig/acc_filled_knn_9.png)
+![acc_filled_knn_9](fig/acc_filled_knn_9.png)
 
 **Confusion matrix@0.5**
 
-![cm_filled_knn_9](/E:/FDU/ISTBI/covid-data-challenge/fig/cm_filled_knn_9.png)
+![cm_filled_knn_9](fig/cm_filled_knn_9.png)
 
 
 #### Soft imputation
@@ -160,18 +160,18 @@ ROC AUC score of voting methods: **0.824071989583669**
 
 **t-SNE**
 
-![feature_filled_softimpute](/E:/FDU/ISTBI/covid-data-challenge/fig/feature_filled_softimpute.png)
+![feature_filled_softimpute](fig/feature_filled_softimpute.png)
 
 **ROC curve**
 
-![filled_softimpute](/E:/FDU/ISTBI/covid-data-challenge/fig/filled_softimpute.png)
+![filled_softimpute](fig/filled_softimpute.png)
 
 ROC AUC score of voting methods: **0.8330593607305936**
 
 **Accuracy@0.5**
 
-![acc_filled_softimpute](/E:/FDU/ISTBI/covid-data-challenge/fig/acc_filled_softimpute.png)
+![acc_filled_softimpute](fig/acc_filled_softimpute.png)
 
 **Confusion matrix@0.5**
 
-![cm_softimpute](/E:/FDU/ISTBI/covid-data-challenge/fig/cm_softimpute.png)
+![cm_softimpute](fig/cm_softimpute.png)
